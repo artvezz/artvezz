@@ -27,7 +27,7 @@ Dois detalhes de engenharia que a maioria dos projetos ignora: a mesma função 
 treino e no servidor (elimina *train/serve skew*), e o laudo SHAP é gravado por rodada do lote, então
 nunca fica defasado do modelo que gerou o score.
 
-### [weather-Agent](https://github.com/artvezz/weather-Agent)
+### [weather-Agent](https://github.com/artvezz/weather-agent)
 
 Pipeline de dados end-to-end com coleta contínua e relatório automatizado:
 
@@ -49,11 +49,11 @@ visualização dos volumes estimados e app web local para upload de exame.
 
 | Repositório | O que é |
 |---|---|
-| [Analise-de-Marketing-VW](https://github.com/artvezz/Analise-de-Marketing-VW) | Marketing analytics em **BigQuery + Power BI**: CTR, CPC, CPM, ROAS, ROI, LTV e comparação de funis A/B |
+| [Analise-de-Marketing-VW](https://github.com/artvezz/analise-de-marketing-vw) | Marketing analytics em **BigQuery + Power BI**: CTR, CPC, CPM, ROAS, ROI, LTV e comparação de funis A/B |
 | [olist-ecommerce-analytics](https://github.com/artvezz/olist-ecommerce-analytics) | Análise de vendas e customer experience do e-commerce brasileiro (SQL + Power BI) |
 | [crm-sales-eda](https://github.com/artvezz/crm-sales-eda) | EDA e diagnóstico de saúde do pipeline de vendas (Jupyter) |
-| [SAC-DASHBOARD-PBI](https://github.com/artvezz/SAC-DASHBOARD-PBI) | Dashboard de Customer Service Analytics (Power BI) |
-| [teste_ab_projeto](https://github.com/artvezz/teste_ab_projeto) | Teste A/B de campanhas — **WIP**, a análise comparativa não está concluída |
+| [SAC-DASHBOARD-PBI](https://github.com/artvezz/sac-dashboard-pbi) | Dashboard de Customer Service Analytics (Power BI) |
+| [teste_ab_projeto](https://github.com/artvezz/teste-ab-projeto) | Teste A/B de campanhas — **WIP**, a análise comparativa não está concluída |
 
 ---
 
@@ -77,8 +77,11 @@ visualização dos volumes estimados e app web local para upload de exame.
 
 ## Contato
 
-<!-- Preencha antes de publicar: troque o e-mail abaixo e adicione seu LinkedIn. -->
-<!-- Email: seu-email@exemplo.com -->
-<!-- LinkedIn: https://www.linkedin.com/in/seu-perfil/ -->
+**E-mail:** <!-- preencher: seu-email@exemplo.com -->
+**LinkedIn:** <!-- preencher: https://www.linkedin.com/in/seu-perfil/ -->
 
-**LinkedIn:** [em breve](https://github.com/artvezz)
+<!--
+  TODO(arthur): os dois campos acima estão vazios de propósito.
+  Preencha antes de usar este perfil em candidatura —LinkedIn e GitHub
+  são onde recrutadores procuram por "Arthur Alves".
+-->
